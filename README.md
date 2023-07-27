@@ -6,7 +6,7 @@
 
 ## https://github.com/beffylaureen/README-generator
 
-## <img src="./assets" alt = "Generated README"/>
+## <img src="./assets/Screenshot 2023-07-27 at 5.25.18 PM.png" alt = "Generated README"/>
 
-## link to demonstration video
+## https://drive.google.com/file/d/13utooTa5rWzBQAnAL-rjAyjWPN2_ZQ3M/view
 
